@@ -41,7 +41,7 @@ record_datetime   num_gainers   num_losers
 ### Installation
 1. Download or clone the repository and navigate to the folder containing the `.jar` file:
 ```bash
-git clone <repository_url>
+git clone https://github.com/hezkyDev/KLSETracker.git
 cd KLSETracker
 
 Usage
