@@ -50,7 +50,7 @@ Running the Application
 
 To start the application, use the precompiled .jar file:
 
-java -jar target/KLSETracker-0.0.1-SNAPSHOT.jar
+java -jar target/KLSETracker.jar
 
 The application will start, and you’ll see logs indicating the scheduled tasks and data-fetching process.
 
