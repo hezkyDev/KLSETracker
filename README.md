@@ -1,6 +1,6 @@
 # KLSETracker
 
-KLSETracker is a Java Spring Boot application I developed to fetch and analyze daily stock data from the **Kuala Lumpur Stock Exchange (KLSE)**. The application counts the number of gainers and losers each day and stores this data in an H2 in-memory database, allowing for easy access and review.
+KLSETracker is a Java Spring Boot application developed to fetch and analyze daily stock data from the **Kuala Lumpur Stock Exchange (KLSE)**. The application counts the number of gainers and losers each day and stores this data in an H2 in-memory database, allowing for easy access and review.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -113,4 +113,4 @@ Key Test Files
 
 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+NA
